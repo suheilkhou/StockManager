@@ -1,6 +1,6 @@
 # Stock Manager CLI
 
-**Java CLI for real-time stock tracking with 2-3 trees**
+**Java CLI for stock tracking with 2-3 trees**
 
 ## Project Summary
 
